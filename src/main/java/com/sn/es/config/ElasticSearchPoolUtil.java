@@ -6,9 +6,8 @@ import org.elasticsearch.client.RestHighLevelClient;
 
 /**
  * ElasticSearch 连接池工具类
- * 
- * @author 00000
  *
+ * @author suning
  */
 public class ElasticSearchPoolUtil{
 
